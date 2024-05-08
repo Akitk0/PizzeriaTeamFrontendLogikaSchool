@@ -2,44 +2,44 @@ let payPage = document.querySelector('.pay_page');
 payPage.style.display = 'none';
 let products = [
     {
-        name: 'Mocarela',
+        name: 'Mozzarela',
         image: 'img/mocarela.jpg',
-        description: 'Some description about Mocarela.',
+        description: 'San Marzano tomatoe,Fresh mozzarella cheese,Basil leaves',
     },
     {
         name: 'Bavarian',
         image: 'img/bavarian.jpg',
-        description: 'Some description about Bavarian.',
+        description: 'bechamel sauce, mozzarella cheese, ham, Bavarian sausages, bacon'
     },
     {
         name: 'Sicilian',
         image: 'img/sicilian.jpg',
-        description: 'Some description about Sicilian.',
+        description: 'tomato sauce, mozzarella cheese, ham',
     },
     {
         name: 'Italiana',
         image: 'img/Italiana.jpg',
-        description: 'Some description about Italiana.',
+        description: 'bechamel sauce, mozzarella cheese, chicken fillet, corn, pineapple, parmesan',
     },
     {
         name: 'Hawaiian',
         image: 'img/Hawaiian.jpg',
-        description: 'Some description about Hawaiian.',
+        description: 'sweet and sour sauce, mozzarella cheese, pepperoni, parmesan, arugula',
     },
     {
         name: 'Quattro formaggi',
         image: 'img/Quattro_formaggi.jpg',
-        description: 'Some description about Quattro formaggi.',
+        description: 'tomato sauce, mozzarella cheese, salami sausage',
     },
     {
         name: 'Pepperoni',
         image: 'img/Pepperoni.jpg',
-        description: 'Some description about Pepperoni.',
+        description: 'sweet and sour sauce, mozzarella cheese, pepperoni, parmesan, arugula',
     },
     {
         name: 'Caprice',
         image: 'img/Caprice.jpg',
-        description: 'Some description about Caprice.',
+        description: 'tomato sauce, mozzarella cheese, ham, fresh mushrooms',
     },
 
 ];
